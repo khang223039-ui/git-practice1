@@ -1,3 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là <Lâm Hoàng Khang>, MSSV <223039>.
-# git-practice1
+Dây là README t? nhánh conflict-demo.
